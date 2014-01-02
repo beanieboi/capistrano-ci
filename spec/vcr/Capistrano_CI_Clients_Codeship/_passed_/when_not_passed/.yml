@@ -1,0 +1,88 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://www.codeship.io/projects/455d1350-b656-0130-7b14-6616343f2138/status?branch=development
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Disposition:
+      - inline; filename="status_branchnotfound.png"
+      Content-Transfer-Encoding:
+      - binary
+      Content-Type:
+      - image/png
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Request-Id:
+      - a553d19b-7e9d-4024-ae41-47b9e00b9285
+      X-Runtime:
+      - '0.025314'
+      X-Ua-Compatible:
+      - chrome=1
+      X-Xss-Protection:
+      - 1; mode=block
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        iVBORw0KGgoAAAANSUhEUgAAAJsAAAAyCAMAAAB8rFmYAAACuFBMVEXRRgjR
+        Rgj////////RRgjnrJ7quKz22s724t7z2NL57OnhlH/beFz89vTwzsb23ND+
+        +ff+/PvkoI/XaUbUWS3//v7RSAr9+PbhhVzXXSb00cLtw7nggln88u7+/fz/
+        /f3RRhHYYi378ezkkm3TThLVVx/++/rXYSvllXH++/nRSAzuu6TttJv67ObT
+        ThTmcBjhiWH77efTTBDtt5/ccULwxbHhu9f//v3ehm7pqIrml3T99vPTUBbR
+        RhXURgjjkWvdd0Xo2dDZZjL56OD22s345NrZZTDnoYHVVBv56OH34NXxxrLR
+        RiP89fLyzbzvwaz+/Pr78Ov559766+XjjXzqrJDzz8DppojshCjznDvjjWf5
+        5d389fHccEDVUxnyy7r9+PXqrZHbbj366uLr2c/XWyXghFv2tVvkk27jj2r2
+        27zs2s/23dL11cfwwq72nDrXf5vzzb3RVUXz2c7aajjzz7/mmHbeWAr99fLR
+        Rhb449reWQrftNrWZULnoIDvwa3RRifo2c/118rYVQ7oo4TrsJXYVQ/hvNfi
+        vNjukjLRUkDggFbftNvZZzT2xIbnn3/iimLYg5raaUHdfGLrxNL22rvdWQrj
+        jGX89PD66uTjxNTxybbz0MHTSg777+nzqFbWZELVVh3xyLX++vjaaznujS3z
+        zr7mdBjhh1300sPrrZLjvNfghHblgTTSRgj44tn22rztuKDii2TXgIrtfCD9
+        9/TWWiPTUhf12MvcdEb++vn55dz+/Pzff1Xhh1/77+rRRhnkztLrgCTRTDba
+        aDb66uP55+Dxx7T228/RRgzepuH2zo744tjuuaHqqYzoooPXXyn88e3eeEv3
+        3tPSVT/ow9L22c3unFLbbDvuu6XttZ3XXifefVHxlzv99/X///788+756eL2
+        3NHuji3frN32zobzxZnz2s+3zQqCAAAAA3RSTlMAPACJhb0hAAAENElEQVR4
+        Xu3WZY/kRhAG4EveMg/zMjMeMzMzM4eZmZmZmZmZmZmZ8zfS7m7LTuzJSju6
+        3Cry+6VUtnv7Uatas4OoaPag3ZzdYwttoe34SWcMVNtBmrbPsQPTNv6a1Sed
+        vIropkmnBtlmTGtG9qrOnOjOXVKD5H6HScD+CZaqg+tk25GQWSD6zXmg7USx
+        cnm+SQBWJr7l9Yhbb+N1xya+5Oe7gmy1511w36E9dLGmPXSk3/bISGTn54Fj
+        eDcUqF7HnrQKTAKJxDNAdqZoB0PaVvD2NCQPn3sUOnkTxzBhK0eB1+EYI/9k
+        ktGagb0DbHTIvtrOCbXHHThv8iqfra4GBwwhWl9Vb3d7YeQJRO0dyH4lbElW
+        Gr/JoiBt5M1sfEeUWzOuL9touzRgbJCtdoT2K9X+9vuyP3t8tlOwkNzMRy+v
+        nZjj2AS5Ksg21T2Kvm1UjyDb0WdpZxOds42dns+2qLrdpZ2PpaLJtWW9NroB
+        LcJWZudmyWlFzeacazt9DM/aIrZ8oG38mdrtRK9u0+4knw1d5GYirpXNEjR5
+        bRuxRthEnLtxYRL50TnH5sRnm1soFC6ahrWBthHajZdcepl2+RUBtnpycyXu
+        kM3VeNJruxsFYYvbue56kun+ehEWz5K2W4byDPbZRPItRWw835Pf9sOP211b
+        kzOvG7LN5LVtwgbfvImM+wXxvuZta3l5+Yp7GinQdq8t++P+BwJsC/EgH5nt
+        U+xuKx7mFg0bvbbhmE5FbNSOfN93gSfQ9iiTPVbkd6H7cXT1Nj6xvLrN7rZk
+        8dTTjZWzkZglbNVlZVMansVzM6StTGQIb59/gZVKvFiC7aWXV8+b/EoRG7X8
+        BJ4O3u1I8mbsa0KeB8+69aJdCpnXeVuFN958K4sG3miurVLaWqVtZXHb2++8
+        u0zrKWaj3Mz36rvKhznz8/7UxdOdu0cfxFkWTCSZhrjMh7z9KF4DfCzf9mri
+        MKky3s3rJ5828bplTl1xG332+RdfTgj/fxuQttAW2gZa9nQziAZu/k+20Bba
+        QpuKSB8AK4pUcYCu99dmgcVI98umKKKappXeNTaLFNPsl03umkGMaFfZSEXG
+        QgwpigFGhu1ZAfuxZSKaYrYYoAhEhQEzTZSKwrRIB5CxaUCUIjr/SI/yg1ah
+        ACrZTw2zJFvaNFg1IoyhKNEY6VAttkkmalgG0szGyihuM9l79i1/EvGcG/+2
+        AoprE2t0M6WgtHkzFVYVZzzkBmmFgTIqs0WYJiURbDuKMUAaitem2HjTcGxy
+        TQRKqfNmw7jNMgHong3kvAm5tEUZQIBcm+0Rr7w2xULptgxUbovqnnOLyHPz
+        2f7t3Iy/2UaVbovEoEibVeGem5i3iN8m541B1H/OmwpV1d01ZunzBjlvKcAw
+        oo5N3lOfTd5TvjYtbc49zRgwVdcWMWHE9PD3NLSFttD2X+Yv7oISB/kJJrsA
+        AAAASUVORK5CYII=
+    http_version: 
+  recorded_at: Mon, 30 Dec 2013 20:09:36 GMT
+recorded_with: VCR 2.6.0

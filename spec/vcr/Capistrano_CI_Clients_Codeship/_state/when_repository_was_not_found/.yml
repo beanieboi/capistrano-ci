@@ -1,0 +1,80 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://www.codeship.io/projects/455d1350-b656-0130-7b14-6616343f21111/status?branch=master
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Disposition:
+      - inline; filename="status_projectnotfound.png"
+      Content-Transfer-Encoding:
+      - binary
+      Content-Type:
+      - image/png
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Request-Id:
+      - 7933bb38-12fd-484f-b42a-feacbabcbe98
+      X-Runtime:
+      - '0.018523'
+      X-Ua-Compatible:
+      - chrome=1
+      X-Xss-Protection:
+      - 1; mode=block
+      Content-Length:
+      - '1528'
+      Connection:
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        iVBORw0KGgoAAAANSUhEUgAAAJsAAAAyCAMAAAB8rFmYAAAB71BMVEW1OQK1
+        OQL///////+1OQLPjn326+netarZqJz69fTFcVn8+Pboy8Xx4d3t1tHVnI26
+        TinAYEPtzsD+/Pvx2s/jwLi1OwT//v7OfFm+USHKgGz//v3w18y7Sxn+/f3A
+        VyjTimr79PH68e7NelX++/q3QQy5Qw7ktqH58OzQgV389/XVjW7hr5m3PQbA
+        Via5QxC3Pwr47OfWkHH79fLowa/BWizdpo3TiWjispzGaD7coojowrD+/Pr1
+        5d3rybrep479+/n9+ffCWy7+/fz+/Pz04tr25+DFZDjGZjzz3dTZmn7coIX3
+        6+a9UB/36uTmvKrszL7qx7j25uC7SBb149y7RxTShWT26OL57+vOe1fTjGvT
+        h2f+/v3szL3Nd1LLdE3EXzPmvav47enanIG/UiPhsJrWkXLpxbXEYjfZmHvQ
+        gV/ZmXzry7z78+/CXTDtz8H9+vm3PQj9+fjx29G7ShfRhGLu0sbPflq5RRLr
+        yrvnvqz04dn68OzfqJD04Nj9+vjis5736eP89vS9Th3szb/v1crIakHEYTX0
+        49vgqpL26OH57un68u779vP9+/r36OL25t/ow7Pw2M304Nf36uXjtJ/do4nZ
+        m3+/VCX68O3Jb0by29Lkt6PLdlDQf1zpxLT89/TQg2HDXjHv1Mnx2tAKIRM7
+        AAAAA3RSTlMAPACJhb0hAAADtUlEQVR4Xu3WVZPjRhQF4E3O7RaTeZgZl5mZ
+        mTfMzMzMzIw/NG5QSbMrx+VxpjKb6Lz0HEl2fXWnu+QV1DA30L+c/4wtt+W2
+        3La2exjVh6Yrqt28tRfFJ27VgKedegaf69N1zNHZpvp2B9hxm/rkOqdHAQ7v
+        vFOudz/+juwXJx2R959p3fZbF6oDDvCCbBuAPQP1K1MK48BxXgGqh1RdCW07
+        Iesd2HLT5tWYlqWEjcpWQE2ua7BKf2WxThsGLrdq6+vF8/NEBwZfFO0SrjxA
+        NDOG6r3KViSikbuqqGkbpbMPtxBVzs01s20StR+rG9hsDs/Osv2B45RkABOy
+        TONgbFPkwSzbqWQUzW00jmxbaAGwwgzb8O6ZhPYwjqlSebQrbaPbMatsHSJP
+        as4UerdXEtt7q2TONLBNNrAFEGEZNhyhJOtxjy5b0ZO2ncQ5ZVOJz8Z9RTib
+        KrEtzjW2zbVa7f5unGnZNk5JnsKDuryGZ9O2R1BTtpLIm4+RzuiPw7hwWtt+
+        2SCz8hqbijPb6v/01+rRxNYT79ezXR9T2jaJs8pGV2fuT5Sa7bfzhULhxEsj
+        1OpZOI6XK6Ic3SXaebwqLd04mbatwV5qYKMZOE3PwiLfC6Ov48jEyBvrdu8Q
+        bX8X3np7ZGgfdp5Wtj0dHbv630VxrbZ1qMzL+tPPRDSED5bKRrMfQmZMtotb
+        ZPnod1I2yAwcUPUYdD6RdRCffvZ5Ff1q1IltSNumtO3wYm1UOfTF+JeFjbrN
+        fXXqwt747NHXpXq2rSed/pLON7J+W+oFvtN3J7rVMGmoNCrX73/okX3/wb7r
+        8l2f23JbbltuuTHJClq+ub5tuS235TYG1hKAWQgaAzxvsTYGADxoAjAyscxQ
+        hXMWLY2Nke03GVQII1OMUN11iZbKRhEMBhcBGYAfSW/oQ4AYhxWEADw1gjLE
+        84EFzsiALOKuJZ4XRM8SZJvB5PCJbA8+b89mw2TwbTJgBh6XNo8HZQSh5TMf
+        UTw3DwbzLGJwmQ87PTfxvGm5ic1nZZjyKtqwuYbBechgElk+UYBOBmbLWjbR
+        SaGhbfFUIre+RDDTNvl82UrNjUKU5VWvPZtBpL7NlX8wMAYR14AtTAtttlgE
+        KGUTGH0rsbmsXRuTPWtuRJlzs/9mbv4CW+c/Z1u430xWttV+s8nyzJQt3m8m
+        ytFV+82AYXiIbcTj/da+LXVOIx/wmTqnAsRTNn1OKeIIYlvoQy/cSGw2h+96
+        S/BeWI7vrMBH53K1eTD/P79Dcltu+wtlydZydbRRVAAAAABJRU5ErkJggg==
+    http_version: 
+  recorded_at: Mon, 30 Dec 2013 20:09:13 GMT
+recorded_with: VCR 2.6.0

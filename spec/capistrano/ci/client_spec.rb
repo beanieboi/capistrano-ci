@@ -30,7 +30,7 @@ describe Capistrano::CI::Client do
   describe ".clients" do
     subject{ described_class.clients }
 
-    it{ should have(4).items }
+    it{ should have(5).items }
   end
 
   describe "#state" do
